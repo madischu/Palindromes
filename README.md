@@ -61,3 +61,11 @@ Display the normalized text
 Display whether the text is a palindrome
 
 End program
+
+## UML Class Diagram
+<img width="331" height="306" alt="image" src="https://github.com/user-attachments/assets/f8691faa-7cf2-467d-9b6e-120005fe87ef" />
+
+## Use Case Diagram
+<img width="692" height="629" alt="image" src="https://github.com/user-attachments/assets/4296ac0f-3be4-4d2e-9792-505aba956276" />
+
+## Program Execution Evidence
